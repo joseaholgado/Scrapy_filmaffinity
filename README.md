@@ -11,7 +11,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone [<REPOSITORY_URL>](https://github.com/joseaholgado/Scrapy_filmaffinity.git)
+    git clone https://github.com/joseaholgado/Scrapy_filmaffinity.git
     cd proyecto-scrapy
     ```
 
@@ -53,7 +53,7 @@
 
 1. Clona el repositorio:
     ```sh
-    git clone [<URL_DEL_REPOSITORIO>](https://github.com/joseaholgado/Scrapy_filmaffinity.git)
+    git clone https://github.com/joseaholgado/Scrapy_filmaffinity.git
     cd proyecto-scrapy
     ```
 
