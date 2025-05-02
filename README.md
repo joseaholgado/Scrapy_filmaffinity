@@ -1,3 +1,7 @@
+# Scrapy FilmAffinity
+This project uses Scrapy to extract information from the FilmAffinity platform and leverages tools such as Pandas, NumPy, and Ipywidgets to transform and analyze the collected data. It's designed for users interested in automating and reproducing movie data collection and exploratory analysis
+
+
 ## Requirements
 
 - Python 3.12
@@ -38,6 +42,8 @@
 - [filmaffinity_spider.py](http://_vscodecontentref_/11): Contains the spider that extracts data from FilmAffinity.
 - [scrapy.ipynb](http://_vscodecontentref_/12): Notebook that converts the extracted data to CSV and performs exploratory analysis.
 
+# Scrapy FilmAffinity
+Este proyecto utiliza Scrapy para extraer información de la plataforma FilmAffinity, y emplea herramientas como Pandas, NumPy e Ipywidgets para transformar y analizar los datos obtenidos. Está pensado para usuarios interesados en la recopilación y análisis de datos cinematográficos de forma automatizada y reproducible.
 
 
 ## Requisitos
